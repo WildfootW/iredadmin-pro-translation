@@ -619,7 +619,7 @@ msgid "Disabled accounts"
 msgstr "停用的帳號"
 
 msgid "Disabled domain profiles"
-msgstr "停用的網域設定"
+msgstr "停用的網域屬性"
 
 msgid "Disabled domains"
 msgstr "停用的網域"
@@ -631,7 +631,7 @@ msgid "Disabled self-service preferences"
 msgstr "停用的自助服務偏好設置"
 
 msgid "Disabled user profiles"
-msgstr "停用的用戶設定"
+msgstr "停用的用戶屬性"
 
 msgid ""
 "Disabling service will be applied to newly created mail user by default. "
@@ -1679,7 +1679,7 @@ msgstr "密碼未包含大寫字母。"
 msgid ""
 "Normal admin cannot view and update disabled profiles in account profile "
 "page."
-msgstr "一般管理員無法在帳號屬性中查看和更新已禁用的配置"
+msgstr "一般管理員無法在帳號屬性頁中查看或更新已禁用的屬性"
 
 msgid "Normal mail user cannot view and update disabled preferences."
 msgstr "一般郵件用戶無法查看和更新已禁用的選項。"
@@ -1916,7 +1916,7 @@ msgid "Product name"
 msgstr "產品名稱"
 
 msgid "Profile has been updated."
-msgstr "設定已被更新"
+msgstr "已更新屬性"
 
 msgid "Profile of admin:"
 msgstr "管理員屬性："
@@ -2598,7 +2598,7 @@ msgid "Who can send email to this list"
 msgstr "誰能發送郵件到這個列表"
 
 msgid "You are not allowed to update global domain admin's profile."
-msgstr ""
+msgstr "你沒有權限更改全域網域管理員的屬性"
 
 #, python-format
 msgid "You are running version %s"
@@ -2639,13 +2639,13 @@ msgid ""
 msgstr "您可以啟用自助服務（每個域設置），以允許用戶管理自己的偏好等。"
 
 msgid "You can set per-domain and per-user throttling in account profile page."
-msgstr "您可以在帳號配置文件頁面中設置每個域和每個用戶的限制。"
+msgstr "您可以在帳號屬性頁中設置每個網域或每位用戶的限制。"
 
 msgid "You can set per-domain throttling in domain profile page."
-msgstr "您可以在網域配置文件頁面中設置每個域的限制。"
+msgstr "您可以在網域屬性頁中設置每個網域的限制。"
 
 msgid "You can set per-user throttling in account profile page."
-msgstr "您可以在用戶配置文件頁面中設置每用戶限制。"
+msgstr "您可以在用戶屬性頁中設置每位用戶限制。"
 
 #, python-format
 msgid "You can't create mail aliases under domain %s."
